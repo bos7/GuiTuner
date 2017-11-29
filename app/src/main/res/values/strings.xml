@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">GuiTuner</string>
+    <string name="push">Ding</string>
+    <string name="owl">Hoot</string>
+
+    <string name="StandardA">A</string>
+    <string name="StandardD">D</string>
+    <string name="StandardG">G</string>
+    <string name="StandardB">B</string>
+    <string name="StandardE">E</string>
+
+    <string name="OpenDf">F#</string>
+
+
+    <string-array name="another">
+        <item>"Standard"</item>
+        <item>"Dropped D"</item>
+        <item>"Open D"</item>
+        <item>"Open G"</item>
+    </string-array>
+
+    <string-array name="free">
+
+        <item>Standard Low E</item>
+        <item>Standard A</item>
+        <item>Standard D</item>
+        <item>Standard G</item>
+        <item>Standard B</item>
+        <item>Standard High E</item>
+
+        <item>Open D Low D</item>
+        <item>Open D F#</item>
+        <item>Open D High A</item>
+        <item>Open D High D</item>
+
+        <item>Open G Low G</item>
+
+
+
+    </string-array>
+
+<!-- string array for sound change concept
+    <string-array name="things">
+        <item>Ding</item>
+        <item>Hoot</item>
+
+    </string-array>
+-->
+
+</resources>
